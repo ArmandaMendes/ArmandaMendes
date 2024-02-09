@@ -26,7 +26,18 @@ Here are some of the tools and languages I have experience with or currently lea
 <br />
 
 #
-## 👩🏾‍💻 MY PROJECTS
+### 👩🏾‍💻 MY PROJECTS
+
+
+#
+
+### 📊 Stats
+
+![Armanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandaMendes&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ArmandaMendes&theme=gruvbox&border_radius=4.5) -->
+
+#
 
 
 
@@ -78,6 +89,3 @@ On iOS App Dev, Swift with Angela Yu
 
    
 
-
-## 📊 GitHub Stats
-![Armanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandaMendes&show_icons=true&theme=gruvbox)
