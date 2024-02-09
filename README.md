@@ -6,7 +6,7 @@
 
 **`Software & Mobile App Developer, Content Creator, Bookworm`**
 
-I am an up-and-coming developer currently learning Swift for iOS development. I describe myself as someone who is a natural born problem solver, a skill that was further strengthened in my current role as a Service Desk Analyst. I love learning and thus do not believe in having one sole focus and expertise. I have diversified my perspectives with initially learning Python, and then moving on to JavaScript, CSS and HTML and now have moved on the Swift, all in a spam of one year. This has allowed for me to have a dynamic skillset an also has made learning new languages easier as I am able to compare similarities and analyse differences. If I could describe myself skilfully in three words, it would be, dynamic, analytical, logical thinker. 
+I am an up-and-coming developer currently learning Swift for iOS development. I describe myself as someone who is a natural born problem solver, a skill that was further strengthened in my current role as a Service Desk Analyst. I love learning and thus do not believe in having one sole focus and expertise. I have diversified my perspectives with initially learning Python, and then moving on to JavaScript, CSS and HTML and now currently learning Swift. This has allowed for me to have a dynamic skillset an also has made learning new languages easier as I am able to compare similarities and analyse differences. If I could describe myself skilfully in three words, it would be, dynamic, analytical, logical thinker. 
 
 
 
