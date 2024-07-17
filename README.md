@@ -80,12 +80,7 @@ learned JavaScript, HTML, CSS
 
 
 
-DEC 2023 SHIFT TO SWIFT
-
-♻ This is where I am currently. I decided to further
-Invest in my learning and education
-I purchased an Udemy course
-On iOS App Dev, Swift with Angela Yu
+2024 - I am still learning !
 
    
 
